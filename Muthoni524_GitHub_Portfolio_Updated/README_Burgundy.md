@@ -1,10 +1,3 @@
-<!--
-Muthoni524 GitHub Profile README — Burgundy Noir
-Create a repository named exactly: Muthoni524
-Then place this file at the repository root as README.md.
-Replace every TODO placeholder before publishing.
--->
-
 <div align="center">
 
 <img src="assets/banner-burgundy.png" alt="Custom portfolio banner" width="100%" />
@@ -18,7 +11,6 @@ Replace every TODO placeholder before publishing.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C42759?style=for-the-badge&logo=linkedin&logoColor=white)](TODO_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Say_hello-550416?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TODO_EMAIL)
 
-📍 Kenya · 🎓 Final-year B.Sc. Business Computing student at JKUAT · Open to relevant opportunities
 
 </div>
 
